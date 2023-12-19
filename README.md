@@ -19,6 +19,7 @@ o install the required libraries, run the following command:
 
 ```bash
 pip install pandas==1.5.3 numpy==1.23.5 scikit-learn==1.2.2
+```
 
 An example is also provided.
 To run the example, download the following files:
