@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <hr />
 <p align="center">
   <a><img src="https://github.com/infoleon/BD_PTF_Br/blob/main/logo/LOGO_plot_obs_predic.png?raw=true" alt="Logo" width="350"/></a>
@@ -26,7 +27,6 @@ The model was fitted using the <a href="https://doi.org/10.2136/vzj2017.05.0095"
 
 ## References
 Ottoni, M. V., Ottoni Filho, T. B., Schaap, M. G., LopesAssad, M. L. R., and Rotunno Filho, O. C.: Hydrophysical Database for Brazilian Soils (HYBRAS) and Pedotransfer Functions for Water Retention, Vadose Zone J., 17, 170095, <a href="https://doi.org/10.2136/vzj2017.05.0095">https://doi.org/10.2136/vzj2017.05.0095</a>, 2018.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 
