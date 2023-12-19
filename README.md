@@ -1,12 +1,9 @@
 
 <p align="center">
   <a><img src="https://github.com/infoleon/BD_PTF_Br/blob/main/logo/LOGO_plot_obs_predic.png?raw=true" alt="Logo" width="350"/></a>
-  <br />
-  <br />
-  
-
 </p>
-
+!License: MIT
+<hr />
 
 
 ## Setup
