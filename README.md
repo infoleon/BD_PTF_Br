@@ -3,7 +3,16 @@
 <p align="center">
   <a><img src="https://github.com/infoleon/BD_PTF_Br/blob/main/logo/LOGO_plot_obs_predic.png?raw=true" alt="Logo" width="300"/></a>
 </p>
-<hr style="height:1px">
+<style>
+  hr {
+    height: 1px;
+    color: #ccc;
+    background-color: #ccc;
+    border: none;
+  }
+</style>
+
+<hr>
 
 ## Setup
 
