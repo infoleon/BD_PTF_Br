@@ -11,7 +11,7 @@
 
 ## Setup
 
-Dedicated to host PTF to predict bulk density (g cm-3) for Brazilian soils.
+A random forest model to predict bulk density (g cm-3) for Brazilian soils from texture and organic matter.
 
 The file "model.jlib" contains the trained model ("joblib" format, version 1.2.0), which can be loaded as a scikit-learn Random Forest Regressor. The model was fitted using scikit-learn version was 1.2.2..
 
@@ -19,12 +19,13 @@ For the other libraries used in this script:
 pandas version 1.5.3
 numpy version 1.23.5
 
+An example is provided.
 To run the example, download the files:
 run_rf.py
 model.jlib
 toc_texture.csv
 
-Then run the Python script "run_rf.py".
+Then run the Python script "run_rf.py", whith all the files in the same folder.
 
 The model was fitted using the <a href="https://doi.org/10.2136/vzj2017.05.0095">HYBRAS soil dataset</a> (Ottoni et al. 2018)
 
