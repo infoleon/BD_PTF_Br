@@ -29,9 +29,7 @@ Then run the Python script "run_rf.py".
 The model was fitted using the <a href="https://doi.org/10.2136/vzj2017.05.0095">HYBRAS soil dataset</a> (Ottoni et al. 2018)
 
 ## References
-Ottoni, M. V., Ottoni Filho, T. B., Schaap, M. G., LopesAssad, M. L. R., and Rotunno Filho, O. C.: Hydrophysical Database for Brazilian Soils (HYBRAS) and Pedotransfer Functions for Water Retention, Vadose Zone J., 17, 170095, 2018
-https://doi.org/10.2136/vzj2017.05.0095
-
+Ottoni, M. V., Ottoni Filho, T. B., Schaap, M. G., LopesAssad, M. L. R., and Rotunno Filho, O. C.: Hydrophysical Database for Brazilian Soils (HYBRAS) and Pedotransfer Functions for Water Retention, Vadose Zone J., 17, 170095, <a href="https://doi.org/10.2136/vzj2017.05.0095">https://doi.org/10.2136/vzj2017.05.0095</a>, 2018.
 
 
 
