@@ -10,11 +10,11 @@ A random forest model to predict bulk density (g cm-3) for Brazilian soils from 
 
 The file "model.jlib" contains the trained model in "joblib" format (version 1.2.0), which can be loaded as a scikit-learn Random Forest Regressor. The model was fitted using scikit-learn version 1.2.2.
 
-For the other libraries used in this script:
+For the other libraries:
 - pandas version 1.5.3
 - numpy version 1.23.5
 
-o install the required libraries, run the following command:
+To install the required libraries, run the following command:
 
 ```bash
 pip install pandas==1.5.3 numpy==1.23.5 scikit-learn==1.2.2
